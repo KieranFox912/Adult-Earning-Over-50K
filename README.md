@@ -5,7 +5,7 @@ Binary Classification Dataset to predict whether adults earn over 50K salary per
 ## Models to be tested are as follows:
 - Decision Tree
 - Naive Bayes
-- Multinomial Naive Bayes
+- SVM (with kernel giving highest accuracy)
 - Artificial Neural Network (ANN)
 - Random Forest
 
